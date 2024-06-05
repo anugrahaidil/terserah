@@ -10,7 +10,7 @@ public class GameGUI extends JFrame{
     private int characterX;
     private int characterY;
     public GameGUI(){
-        setTitle("Game Zombie");
+        setTitle("Game Zombie Run");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800,600);
         setLocationRelativeTo(null);
